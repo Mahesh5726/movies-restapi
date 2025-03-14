@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
     "id": "string",
     "title": "string",
     "director": "string",
-    "releaseYear": number,
+    "releaseYear": "number",
     "genre": "string"
   }
   ```
