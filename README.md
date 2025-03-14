@@ -55,11 +55,11 @@ Before you begin, ensure you have the following installed:
 - **Request Body:**
   ```json
   {
-    "id": "1",
-    "title": "Inception",
-    "director": "Christopher Nolan",
-    "releaseYear": 2010,
-    "genre": "Sci-Fi"
+    "id": "string",
+    "title": "string",
+    "director": "string",
+    "releaseYear": number,
+    "genre": "string"
   }
   ```
 - **Response:**
